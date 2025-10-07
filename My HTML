@@ -1,7 +1,17 @@
+
 <! DOCTYPE html>
-<head>
+<html lang= "en">
     
-    <title>GitHub Class</title>
+</html>
+<head>
+    <Meta charset= "UTF-8"
+    <title><h1>Github Class</h1></title>
     </head>
-    <body>Hello, My Name is Shubhashree Deshak</body>
+    
+    <body><p><h2> Hello, I am Shubhashree Deshak</h2></p>
+    <p><h3>Hello World</h3></p>
+    <a href="https://github.com/shubhashreed153-byte">GitHub Link</a>
+    <Br>
+   <img src="https://in.pinterest.com/pin/808044358129131049/" alt="Adiyogi Shiva">
+    </body>
     </html>
